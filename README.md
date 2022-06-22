@@ -42,6 +42,8 @@ following `resolver.json` snippet to use it in the enrichment pass:
 }
 ```
 
+Both `http` and `https` schemas are supported, but `https` is recommended.
+
 ## License
 
 Licensed under the [Apache 2.0](LICENSE) license.
