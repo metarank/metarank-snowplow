@@ -1,5 +1,9 @@
 # Snowplow Iglu schemas for Metarank
 
+[![CI Status](https://github.com/metarank/metarank-snowplow/workflows/Validate%20schemas/badge.svg)](https://github.com/metarank/metarank-snowplow/actions)
+[![License: Apache 2](https://img.shields.io/badge/License-Apache2-green.svg)](https://opensource.org/licenses/Apache-2.0)
+![Last commit](https://img.shields.io/github/last-commit/metarank/metarank-snowplow)
+
 This repo contains a set of JSON schemas for Snowplow Iglu registry to integrate
 Snowplow and Metarank. See the main [Metarank Snowplow integration document](todo) for
 details on setting this thing up.
